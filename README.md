@@ -7,9 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/wellingtonmassola@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonmassola@gmail.com)](mailto:wellingtonmassola@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/wellingtonmassola@outlook.com-blue?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:wellingtonmassola@outlook.com)](mailto:wellingtonmassola@outlook.com)
 
-Meu nome é Wellington Carlos Massola, sou formado em Bacharelado em Ciência da Computação pela UNESP de Bauru.
+Meu nome é Wellington Carlos Massola, sou formado em Bacharelado em Ciência da Computação pela UNESP de Bauru. Meu TCC foi sobre o uso de programação não linear para o dimensionamento de biodigestores indianos.
 
-Atualmente estou procurando emprego como desenvolvedor (Java/Javascript) e estou trabalhando em projetos pessoais e freelance no momento.
+Trabalhei nos últimos anos com logística, mas atualmente estou procurando emprego como desenvolvedor (Java/Javascript) e estou trabalhando em projetos pessoais e freelance no momento.
 
 Atualmente estudando AWS Lambda e S3.
 
