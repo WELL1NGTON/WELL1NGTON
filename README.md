@@ -9,10 +9,6 @@
 
 Meu nome é Wellington Carlos Massola, sou formado em Bacharelado em Ciência da Computação pela UNESP de Bauru. Meu TCC foi sobre o uso de programação não linear para o dimensionamento de biodigestores indianos.
 
-Trabalhei nos últimos anos com logística, mas atualmente estou procurando emprego como desenvolvedor (Java/Javascript) e estou trabalhando em projetos pessoais e freelance no momento.
-
-Atualmente estudando AWS Lambda e S3.
-
 ![WELL1NGTON's github stats](https://github-readme-stats.vercel.app/api?username=WELL1NGTON&show_icons=true&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WELL1NGTON)](https://github.com/WELL1NGTON/github-readme-stats&theme=dark)
