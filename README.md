@@ -15,10 +15,7 @@ Atualmente estudando AWS Lambda e S3.
 
 ![WELL1NGTON's github stats](https://github-readme-stats.vercel.app/api?username=WELL1NGTON&show_icons=true&count_private=true&theme=dark)
 
-*Obs.: atualmente estou utilizando mais o GitHub, mas possuo mais commits no GitLab esse ano*
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WELL1NGTON)](https://github.com/WELL1NGTON/github-readme-stats&theme=dark)
-
 
 
 <!--
